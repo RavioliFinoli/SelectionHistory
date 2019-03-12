@@ -15,4 +15,4 @@ A tool that transfers animation from one skeleton to another.
    reload(SelectionHistory)
    SelectionHistory.run()
    ```
-  * Run that script to open the tool (you probably want to save it to a shelf)
+  * Run that script to open the tool (you can save this script to a shelf by selecting the code and dragging it onto a shelf and selecting 'Python' in the dialogue that pops up).
