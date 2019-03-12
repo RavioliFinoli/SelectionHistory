@@ -4,6 +4,7 @@ A tool that transfers animation from one skeleton to another.
 ## Notes
   * Tracks selection of all object types. A filtering feature is planned.
   * The window is dockable for convenience.
+  * Tested only on Autodesk Maya 2018.
 
 <a name="installation"/>
 
