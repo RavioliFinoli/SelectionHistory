@@ -1,12 +1,6 @@
 # Animation Transfer Tool for Maya
 A tool that transfers animation from one skeleton to another.
 
-## Table of Contents
-[Notes](#notes)  
-[Installation](#installation)  
-
-<a name="notes"/>
-
 ## Notes
   * Tracks selection of all object types. A filtering feature is planned.
   * The window is dockable for convenience.
